@@ -1,4 +1,16 @@
-body {background-color:tan;}
-h1{color:green;}
-
-
+body {background-color:black;font-family:arial;color:white}
+h1{color:grey;font-family:verdana}
+.maindiv {
+    background-color:white;
+    color:black;
+    width:480px;
+    padding:30px;
+    border-radius:25px;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+mark {
+    background-color: yellow;
+}
